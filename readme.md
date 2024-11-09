@@ -1,4 +1,5 @@
-Here's the complete `.md` file for your GraphQL Symfony project with improved formatting and all information clearly included:
+# GraphQL Symfony
+
 
 ```md
 # GraphQL Symfony Setup Guide
@@ -123,12 +124,4 @@ This regex pattern allows HTTP/HTTPS requests from any port on `127.0.0.1`.
 - [Symfony Documentation](https://symfony.com/doc/current/index.html)
 - [GraphQL Documentation](https://graphql.org/learn/)
 - [Doctrine DBAL Configuration Guide](https://www.doctrine-project.org/projects/doctrine-dbal/en/latest/reference/configuration.html#connecting-using-a-url)
-
-This setup guide should provide a comprehensive starting point for configuring your GraphQL Symfony application. Adjust the environment variables as needed based on your project requirements.
 ```
-
-### Summary of Changes:
-1. **Sections**: Clearly divided into configuration sections (Symfony, Database, Messenger, Mailer, CORS).
-2. **Inline Comments**: Added explanations for each section to help users understand the configurations.
-3. **Resources Section**: Added links to relevant documentation for further reading.
-4. **Consistency**: Used consistent formatting for environment variables and inline notes.
